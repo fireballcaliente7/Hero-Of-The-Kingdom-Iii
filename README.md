@@ -198,3 +198,6 @@ This repository serves as the official landing page for Hero of the Kingdom III.
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Hero of the Kingdom III today!**
+
+---
+**Last updated:** 2026-11-07 01:34:49 UTC
