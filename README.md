@@ -200,4 +200,4 @@ This repository serves as the official landing page for Hero of the Kingdom III.
 **Get the most recent version of Hero of the Kingdom III today!**
 
 ---
-**Last updated:** 2026-11-13 01:39:42 UTC
+**Last updated:** 2026-11-13 09:02:18 UTC
